@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "name": "Seed EUROPE",
+      "url": "185.252.215.234",
+      "port": 31112,
+      "height": 346407,
+      "mempool": 0,
+      "status": "OK"
+    },
+    {
+      "name": "Seed USA",
+      "url": "138.124.183.11",
+      "port": 31112,
+      "height": 346407,
+      "mempool": 0,
+      "status": "OK"
+    },
+    {
+      "name": "Seed ASIA",
+      "url": "185.74.222.212",
+      "port": 31112,
+      "height": 346407,
+      "mempool": 0,
+      "status": "OK"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "infinium-nodes-list",
+  "version": "1.0.0",
+  "description": "A JSON API that shows you Infinium Nodes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Infinium-8 Developers",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "4.0.0",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security"
+  }
+}
